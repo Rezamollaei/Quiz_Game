@@ -1,0 +1,1 @@
+"Created a multiple-choice quiz app that presents users with a series of questions, allowing them to select their answers. The app evaluates each answer, providing feedback on correctness, and ultimately displays the user's total score."
